@@ -1,0 +1,58 @@
+/* ======== TAG SELECTOR ======*/
+
+body{
+    background-color:white ;
+}
+
+a{
+    text-align: right;
+    color: #39f;;
+    position: absolute;
+    right: 80px;
+    transform: translateY(-50%);
+    font-size: 13px;
+}
+
+div{
+    color: #26282a;
+    font: 16PX;
+    text-align: right;
+}
+
+h1{
+    text-align: center;
+}
+
+
+
+
+
+/* ====== CLASS SELECTOR ======*/
+.login-bg-outer {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    min-height: 150px;
+    text-align: center;
+    position: relative;
+    z-index: 0;
+    top: 0;
+    column-gap: #26282a;
+    
+}
+
+.grin{
+    padding-top: 28px;
+    padding-bottom: 0;
+    text-align: center;
+}
+
+.display{
+    padding: 0;
+    font-size: 500%;
+}
+    
+
+
+/*=======ID SELECTOR ======*/
+
